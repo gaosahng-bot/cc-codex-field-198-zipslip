@@ -1,0 +1,11 @@
+{
+  "archive": "batch.rar",
+  "entry": "reports/a.csv",
+  "target_root": "/var/pay/inbox",
+  "size": 100,
+  "mode": "100644",
+  "nonce": "n-deny-suffix",
+  "iat": 1781783975,
+  "kid": "k-active",
+  "sig": "oIfp7kVgdxDeNqLGeBeYS7Kq7IL5z4IfcTenRCVloh4"
+}

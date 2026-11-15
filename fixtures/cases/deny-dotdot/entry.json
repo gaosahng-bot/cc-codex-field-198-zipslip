@@ -1,0 +1,11 @@
+{
+  "archive": "batch.zip",
+  "entry": "../etc/passwd",
+  "target_root": "/var/pay/inbox",
+  "size": 100,
+  "mode": "100644",
+  "nonce": "n-deny-dotdot",
+  "iat": 1781783975,
+  "kid": "k-active",
+  "sig": "4DePTmN50ypNBNRQkMLbuu35LDYctfyzubsBW3Lo958"
+}

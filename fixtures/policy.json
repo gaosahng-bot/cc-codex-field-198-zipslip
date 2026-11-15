@@ -1,0 +1,25 @@
+{
+  "allowed_roots": [
+    "/var/pay/inbox",
+    "/var/ops/inbox"
+  ],
+  "archive_suffixes": [
+    ".zip",
+    ".tar"
+  ],
+  "entry_deny_substrings": [
+    "..",
+    "\\",
+    "\u0000",
+    "//"
+  ],
+  "forbid_absolute_entry": true,
+  "forbid_symlink_mode": true,
+  "symlink_modes": [
+    "120777",
+    "120755"
+  ],
+  "size_max": 1048576,
+  "clock_skew_seconds": 60,
+  "max_age_seconds": 600
+}

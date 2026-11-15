@@ -1,0 +1,11 @@
+{
+  "archive": "logs.tar",
+  "entry": "day/log.txt",
+  "target_root": "/var/ops/inbox",
+  "size": 200,
+  "mode": "100644",
+  "nonce": "n-ok-ops",
+  "iat": 1781783975,
+  "kid": "k-active",
+  "sig": "Lq2-vNaCwQhCd3JkGVjUoYYVV9KM03S3526cOTmM3g4"
+}
